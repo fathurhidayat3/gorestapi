@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/fathurhidayat3/myrestapi/structs"
+	"github.com/fathurhidayat3/gorestapi/structs"
 	"github.com/jinzhu/gorm"
 )
 

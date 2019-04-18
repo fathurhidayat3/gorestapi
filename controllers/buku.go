@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/fathurhidayat3/myrestapi/structs"
+	"github.com/fathurhidayat3/gorestapi/structs"
 	"github.com/gin-gonic/gin"
 )
 

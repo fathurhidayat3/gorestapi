@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/fathurhidayat3/myrestapi/config"
-	"github.com/fathurhidayat3/myrestapi/controllers"
+	"github.com/fathurhidayat3/gorestapi/config"
+	"github.com/fathurhidayat3/gorestapi/controllers"
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
 )
